@@ -1,5 +1,3 @@
-
-
 body{
 line-height: 25px;
 font-family: Arial;
@@ -14,11 +12,22 @@ img{
     margin: 40px auto;
     border: dotted 20px #929292;
     padding: 20px;
+    border-color: coral;
+    border-width: 7px;
+    padding: 7px;
 }
 
 p{
-    font-size: 20px;
+    
     font-family: Arial;
     border: solid 5px #929292;
+    padding: 20px;
+    border-radius: 10px;
 
+}
+h1{
+    font-size: 60px;
+    font-family: Arial;
+    background-color: crimson;
+    
 }
