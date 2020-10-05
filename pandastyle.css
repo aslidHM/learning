@@ -1,20 +1,24 @@
 
-head1{
-    font-size: 3em;
-    margin: 0;
-    margin-bottom: 7px;
-    padding: 4px;
-    text-align: center;   
-   
-}
+
 body{
-line-height: 42px;
-font-size: 2em;
-font-family: Arial, Helvetica, sans-serif;
+line-height: 25px;
+font-family: Arial;
 }
+
+img{
+
+    width:20%;
+}
+.column{
+    width: 600px;
+    margin: 40px auto;
+    border: dotted 20px #929292;
+    padding: 20px;
+}
+
 p{
-    line-height: 42px;
-    font-size: 2em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-family: Arial;
+    border: solid 5px #929292;
 
 }
