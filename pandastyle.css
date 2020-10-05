@@ -10,6 +10,8 @@ img{
 .column{
     width: 600px;
     margin: 40px auto;
+    border-left: 25px pink;
+    border-right: 25px pink;
     }
 
 
