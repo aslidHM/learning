@@ -10,7 +10,7 @@ img{
 .column{
     width: 600px;
     margin: 40px auto;
-    border: dotted 20px #929292;
+    border: dotted 20px pink;
     padding: 20px;
     border-color: coral;
     border-width: 7px;
