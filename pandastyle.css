@@ -1,6 +1,6 @@
 body{
-line-height: 25px;
-font-family: Arial;
+    line-height: 25px;
+    font-family: Arial;
 }
 
 img{
@@ -10,24 +10,15 @@ img{
 .column{
     width: 600px;
     margin: 40px auto;
-    border: dotted 20px pink;
-    padding: 20px;
-    border-color: coral;
-    border-width: 7px;
-    padding: 7px;
-}
-
-p{
-    
-    font-family: Arial;
-    border: solid 5px #929292;
-    padding: 20px;
-    border-radius: 10px;
-
-}
+    border-left: 25px pink;
+    border-right: 25px pink;
+    }
 h1{
     font-size: 60px;
     font-family: Arial;
-    background-color: crimson;
     
+}
+
+h1, h2{
+text-shadow: 0px 0px 20px green;
 }
